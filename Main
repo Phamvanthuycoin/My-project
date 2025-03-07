@@ -1,0 +1,3 @@
+echo "print('New feature added!')" >> main.py
+git add main.py
+git commit -m "Add new feature to main.py"
